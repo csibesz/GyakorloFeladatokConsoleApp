@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{5827B248-AE5C-4497-AF6D-148D4F0873C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OszthatosagiFeladat", "OszthatosagiFeladat\OszthatosagiFeladat.csproj", "{D61DC5F2-F11A-4723-B721-324207522121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomersekletVizsgalo", "HomersekletVizsgalo\HomersekletVizsgalo.csproj", "{04C4AE79-4C51-4496-BAFF-1EFF05285752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTomegIndexSz", "TestTomegIndexSz\TestTomegIndexSz.csproj", "{AA106F65-8E07-468D-98F6-C488B3B23FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VizHalmazallapotMero", "VizHalmazallapotMero\VizHalmazallapotMero.csproj", "{D6CEC827-E165-43A7-8AEA-02B27E588677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontokTavolsaga", "PontokTavolsaga\PontokTavolsaga.csproj", "{7DE0C573-A0AC-4B5A-A050-F89B8BEF8E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5827B248-AE5C-4497-AF6D-148D4F0873C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5827B248-AE5C-4497-AF6D-148D4F0873C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5827B248-AE5C-4497-AF6D-148D4F0873C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5827B248-AE5C-4497-AF6D-148D4F0873C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61DC5F2-F11A-4723-B721-324207522121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61DC5F2-F11A-4723-B721-324207522121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61DC5F2-F11A-4723-B721-324207522121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61DC5F2-F11A-4723-B721-324207522121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C4AE79-4C51-4496-BAFF-1EFF05285752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C4AE79-4C51-4496-BAFF-1EFF05285752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C4AE79-4C51-4496-BAFF-1EFF05285752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C4AE79-4C51-4496-BAFF-1EFF05285752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA106F65-8E07-468D-98F6-C488B3B23FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA106F65-8E07-468D-98F6-C488B3B23FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA106F65-8E07-468D-98F6-C488B3B23FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA106F65-8E07-468D-98F6-C488B3B23FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CEC827-E165-43A7-8AEA-02B27E588677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CEC827-E165-43A7-8AEA-02B27E588677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CEC827-E165-43A7-8AEA-02B27E588677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CEC827-E165-43A7-8AEA-02B27E588677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE0C573-A0AC-4B5A-A050-F89B8BEF8E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE0C573-A0AC-4B5A-A050-F89B8BEF8E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE0C573-A0AC-4B5A-A050-F89B8BEF8E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE0C573-A0AC-4B5A-A050-F89B8BEF8E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A89F183-FD07-4981-879C-62C96AC6CD70}
+	EndGlobalSection
+EndGlobal
